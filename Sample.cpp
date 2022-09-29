@@ -146,7 +146,7 @@ Sample::~Sample(){
  * 25. What is the difference between the following lines:
  *
  * Sample *s1 = new Sample;
- * Sample s2 = s1;
+ * Sample *s2 = s1;
  *
  * and
  *
